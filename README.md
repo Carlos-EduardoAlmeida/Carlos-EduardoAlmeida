@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Carlos-EduardoAlmeida
+- 👀 I’m interested in studying different web technologies
+- 🌱 I’m currently learning the technologhies HTML, Css, Javascript, Python and Linux
+- 💞️ I’m looking to collaborate on Web projects
